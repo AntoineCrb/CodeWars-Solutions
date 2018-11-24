@@ -1,4 +1,4 @@
-#CodeWars-Solution
+# CodeWars-Solution
 
 [<img src=https://www.codewars.com/users/Kraken01/badges/large>](https://www.codewars.com/users/Kraken01)
 
