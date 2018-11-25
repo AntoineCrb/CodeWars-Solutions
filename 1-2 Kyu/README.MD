@@ -7,3 +7,5 @@ Here are referenced the problems with the highest rank of difficulty
 ### 1 Kyu
 
 ### 2 Kyu
+
+- [Evaluate mathematical expression](https://www.codewars.com/kata/evaluate-mathematical-expression "Evaluate mathematical expression")
