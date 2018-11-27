@@ -12,4 +12,5 @@ Here are referenced the problems with a medium level of difficulty
 
 - [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d "The observed PIN")
 - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003 "Roman Numerals Helper")
+- [Sudoku Solution Validator](https://www.codewars.com/kata/sudoku-solution-validator "Sudoku Solution Validator")
 
