@@ -9,6 +9,7 @@ Here are referenced the problems with a medium level of difficulty
 - [Binomial Expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b "Binomial Expansion")
 - [Screen Locking Patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1 "Screen Locking Patterns")
 - [SwitchTheBulb](https://www.codewars.com/kata/5a96064cfd57777828000187 "SwitchTheBulb")
+- [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26 "The Millionth Fibonacci Kata")
 
 ### 4 Kyu
 
