@@ -7,6 +7,7 @@ Here are referenced the problems with a low level of difficulty
 ### 5 Kyu
 
 - [Mystery function #1](https://www.codewars.com/kata/531963f82dde6fc8c800048a "Mystery function #1")
+- [Pascal's Diagonals](https://www.codewars.com/kata/576b072359b1161a7b000a17 "Pascal's Diagonals")
 
 ### 6 Kyu
 
