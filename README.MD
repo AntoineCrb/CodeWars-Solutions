@@ -4,7 +4,7 @@
 
 ## Description
 
-This project references all the kata I have solved, classified in different files from the simplest to the most complex  (8kyu -> 1 kyu).
+This project includes some of the kata that I solved, classified in different files from the simplest to the most complex  (8kyu -> 1 kyu).
 I did not put the problems rated under 6 kyu because they are too simple and do not need to be here.
 
 ## What is CodeWars ?
