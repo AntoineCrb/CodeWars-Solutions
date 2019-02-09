@@ -19,3 +19,4 @@ Here are referenced the problems with a medium level of difficulty
 - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003 "Roman Numerals Helper")
 - [Sudoku Solution Validator](https://www.codewars.com/kata/sudoku-solution-validator "Sudoku Solution Validator")
 - [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d "The observed PIN")
+- [Connect Four](https://www.codewars.com/kata/56882731514ec3ec3d000009 "Connect Four")
